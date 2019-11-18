@@ -3,7 +3,15 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
   <action id="QuickChangeScheme" />
+  <action id="SearchEverywhere.PrevTab" />
 </keymap>
